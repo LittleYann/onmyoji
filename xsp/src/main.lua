@@ -1,2 +1,6 @@
-local bb = require("badboy")
+init("0", 1)
 showUI("ui.json")
+require("mitama")
+
+
+

@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+clickMaster	C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src\tool.lua	35;"	f
+clickSoloStart	C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src\tool.lua	74;"	f
+clickTeamStart	C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src\tool.lua	62;"	f
+continue	C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src\tool.lua	51;"	f
+failed	C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src\tool.lua	86;"	f
+fight	C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src\mitama.lua	3;"	f
+fighting	C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src\tool.lua	25;"	f
+id	C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src\mitama.lua	21;"	e
+n	C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src\mitama.lua	4;"	e
+ready	C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src\tool.lua	13;"	f
+showPerHUD	C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src\tool.lua	9;"	f
+touch	C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src\tool.lua	1;"	f
+win	C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src\tool.lua	40;"	f
+x1	C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src\tool.lua	2;"	e
+y1	C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src\tool.lua	3;"	e
