@@ -8,44 +8,50 @@
    "okname" : "开始",
    "views" : [
       {
-         "text" : "基本设置",
+         "text" : "设置",
          "type" : "Page",
          "views" : [
             {
                "align" : "left",
                "color" : "255,140,0",
                "size" : 30,
-               "text" : "提示：",
+               "text" : "提示：本脚本只适合茨木魂十，三回合集火右边",
                "type" : "Label",
                "bg" : "255,255,255",
-			   "rect": "40,50,700,50"
+               "rect" : "40,40,700,50"
             },
 			{
-               "align" : "left",
-               "color" : "255,140,0",
-               "size" : 30,
-               "text" : "本脚本只适合茨木魂十，三回合集火右边",
-               "type" : "Label",
+	            "align" : "left",
+	            "color" : "0,0,0",
+	            "size" : "40",
+	            "text" : "功能:",
+	            "bg" : "255,255,255",
+	            "type" : "Label",
+				"rect" : "40,100,200,50"
+            },
+            {
+               "id" : "fun",
+               "list" : "御魂,阴界之门",
+               "select" : "0",
+               "size" : "40",
+               "type" : "ComboBox",
                "bg" : "255,255,255",
-			   "rect": "40,100,700,50"
+               "rect" : "120,100,200,50"
             },
 			{
-               "align" : "left",
-               "color" : "255,140,0",
-               "size" : 30,
-               "text" : "使用方法：",
-               "type" : "Label",
-               "bg" : "255,255,255",
-			   "rect": "40,150,700,50"
+	            "id" : "yhtimes",
+	            "align" : "left",
+	            "color" : "0,0,0",
+	            "kbtype" : "number",
+	            "prompt" : "御魂次数",
+	            "size" : "25",
+	            "type" : "Edit",
+				"rect" : "360,100,200,50"
             },
-			{
-               "align" : "left",
-               "color" : "255,140,0",
-               "size" : 30,
-               "text" : "点击开始，停留在组队页面",
-               "type" : "Label",
-               "bg" : "255,255,255",
-			   "rect": "40,200,700,50"
+            {
+               "src" : "b.png",
+               "type" : "Image",
+               "rect" : "40,180,620,800"
             }
          ]
       }

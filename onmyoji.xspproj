@@ -1,16 +1,35 @@
 [SOURCE]
-1\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/main.lua
-size=3
-2\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/mitama.lua
+1\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/badboy.lua
+size=21
+2\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/main.lua
 3\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/tool.lua
-4\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/global.lua
+4\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/yh.lua
+5\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/yyzm.lua
+6\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/JSON.lua
+7\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/md5.lua
+8\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/pos.lua
+9\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/StrUtilsAPI.lua
+10\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/UI.lua
+11\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/utils.lua
+12\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/socket/ftp.lua
+13\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/socket/headers.lua
+14\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/socket/http.lua
+15\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/socket/ltn12.lua
+16\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/socket/mbox.lua
+17\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/socket/mime.lua
+18\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/socket/smtp.lua
+19\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/socket/socket.lua
+20\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/socket/tp.lua
+21\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/socket/url.lua
+22\SOURCEFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/src/bblibs/socket/url.lua
 
 [UI]
 1\UIFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/ui/ui.json
 size=1
 
 [RES]
-size=0
+size=1
+1\RESFILE=C:/Users/gaoy/Documents/xspworkspace/onmyoji/xsp/res/b.png
 
 [LIB]
 size=0
